@@ -1,0 +1,22 @@
+.app-container {
+    background-color: #ffffff;
+    position: relative;
+    top: 80px;
+}
+.app-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 80px;
+    background-color: #333545;
+}
+.app-routes-container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 40px 0;
+}
+.app-header-logo {
+    padding: 40px;
+    color: #ffffff;
+}

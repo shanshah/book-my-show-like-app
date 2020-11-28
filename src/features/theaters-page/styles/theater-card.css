@@ -1,0 +1,27 @@
+.theater-card {
+    width: 100%;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #888888;;
+}
+.theater-name {
+    color: #333545;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.theater-address {
+
+}
+
+.theater-phone {
+
+}
+
+.theater-name,
+.theater-address,
+.theater-phone {
+    margin: 10px 0;
+}

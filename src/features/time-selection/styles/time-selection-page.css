@@ -1,0 +1,8 @@
+.time-box {
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: skyblue;
+}
